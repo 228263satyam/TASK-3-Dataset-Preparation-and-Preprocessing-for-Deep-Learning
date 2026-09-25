@@ -103,3 +103,19 @@ The following augmentation techniques were used:
 The dataset was successfully prepared for subsequent deep learning
 applications. EDA visualizations, class distributions, pixel analysis,
 normalization results, and augmented images are included in the notebook.
+
+## 👤 Author
+
+**Satyam Yadav**
+
+M.Sc. Data Science & Big Data Analyst
+
+---
+
+## 📌 Academic Note
+
+This repository contains the implementation and measured experimental results for **Task 3:Dataset Preparation and Preprocessing for Deep Learning**.
+
+The final reported results are based on the recorded execution of the supplied notebook.
+
+
